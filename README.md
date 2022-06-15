@@ -1,4 +1,4 @@
-![Logo](https://github.com/HeadbangGang/portfolio/blob/develop/assets/media/caffeinate.png?raw=true)
+<img alt='Caffeinate Logo' src='https://github.com/HeadbangGang/portfolio/blob/master/assets/media/caffeinate.png?raw=true' width='200px' />
 
 # Caffeinate
 
